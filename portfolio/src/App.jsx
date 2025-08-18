@@ -2,7 +2,8 @@ import './App.css'
 import Hero from './components/Hero'
 import Navbar from './components/Navbar'
 import About from './components/About'
-import Services from './components/Services'
+import Education from './components/Education'
+import Projects from './components/Projects'
 
 function App() {
   return (
@@ -10,7 +11,8 @@ function App() {
       <Navbar />
       <Hero />
       <About />
-      <Services />
+      <Education />
+      <Projects />
     </div>
   )
 }
