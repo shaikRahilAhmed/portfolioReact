@@ -10,7 +10,7 @@ const Navbar = () => {
                     <a href="#about" className='hover:text-gray-400'>About Me</a>
                     <a href="#education" className='hover:text-gray-400'>Education</a>
                     <a href="#projects" className='hover:text-gray-400'>Projects</a>
-                    <a href="#contact me" className='hover:text-gray-400'>Contact</a>
+                    <a href="#contact" className='hover:text-gray-400'>Contact</a>
                 </div>
 
                 <button className='bg-gradient-to-r from-green-400 to-blue-500 text-white hidden md:inline transform transition-transform duration-300 hover:sacle-105 px-4 py-2 rounded-full '>Contact Me</button>
